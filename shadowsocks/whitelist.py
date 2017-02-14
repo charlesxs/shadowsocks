@@ -1,7 +1,8 @@
 # coding=utf-8
 #
 
-import re, os
+import re
+import os
 import logging
 
 
@@ -48,5 +49,6 @@ if __name__ == '__main__':
         config = json.load(f)
     wt = WhiteList(config)
     # print(wt)
-    print(wt.whitelist.get('192.168.1'))
+    # print(wt.whitelist.get('192.168.1'))
+    print(wt.whitelist['domain'])
 

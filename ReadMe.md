@@ -2,7 +2,7 @@
 
 
 **功能：**
-    修改 python版shadowsocks-2.8.2软件添加白名单功能
+    修改 python版shadowsocks-2.8.2软件添加白名单功能时期能自动区分国内外流量
 
     白名单: whitelist.txt,  此白名单是从ip纯真库下载并处理成白名单, 包含了大部分国内IP地址.
 

@@ -8,5 +8,5 @@
   "method":"aes-256-cfb",
   "fast_open": false,
   "workers": 2,
-  "whitelist": "E:\\webroot\\shadowsocks\\whitelist.txt"
+  "whitelist": "G:\\software\\Proxy\\goFireWall\\shadowsocks\\whitelist.txt"
 }
