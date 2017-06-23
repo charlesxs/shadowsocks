@@ -16,13 +16,13 @@
 
     例子:
 
-        ![Alt text](/../screenshots/screenshots/restart-001.png?raw=true "restart")
+        ![restart](/../screenshots/screenshots/restart-001.png?raw=true)
 
-        ![Alt text](/../screenshots/screenshots/list-001.png?raw=true "list")
+        ![list](/../screenshots/screenshots/list-001.png?raw=true)
 
-        ![Alt text](/../screenshots/screenshots/change-001.png?raw=true "change")
+        ![change](/../screenshots/screenshots/change-001.png?raw=true)
 
-        ![Alt text](/../screenshots/screenshots/list-002.png?raw=true "list")
+        ![list](/../screenshots/screenshots/list-002.png?raw=true)
 
 
 **依赖:**
