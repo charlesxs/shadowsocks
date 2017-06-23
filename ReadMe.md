@@ -14,6 +14,17 @@
     
     windows上使用: python3 sslocal.py
 
+    例子:
+
+        ![Alt text](/../screenshots/screenshots/restart-001.png?raw=true "restart")
+
+        ![Alt text](/../screenshots/screenshots/list-001.png?raw=true "list")
+
+        ![Alt text](/../screenshots/screenshots/change-001.png?raw=true "change")
+
+        ![Alt text](/../screenshots/screenshots/list-002.png?raw=true "list")
+
+
 **依赖:**
 
     python >= 3.4
