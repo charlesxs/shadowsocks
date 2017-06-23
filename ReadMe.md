@@ -18,7 +18,7 @@
 
 <img width="483" alt="restart-001" src="https://user-images.githubusercontent.com/7393682/27466207-825dda4e-580b-11e7-87dc-ee11012b59e9.png">
         
-<img width="484" alt="list-001" src="https://user-images.githubusercontent.com/7393682/27466219-93587188-580b-11e7-9d78-a672f5e96705.png">
+<img width="510" alt="list-003" src="https://user-images.githubusercontent.com/7393682/27466960-f2c9d918-5810-11e7-803f-27ba0d4c6742.png">
                 
 <img width="496" alt="change-001" src="https://user-images.githubusercontent.com/7393682/27466188-673523e4-580b-11e7-9988-b6e501cf0f15.png">
         
